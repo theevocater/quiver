@@ -21,12 +21,10 @@
 			"revisionTime": "2016-09-24T22:28:19Z"
 		},
 		{
-			"checksumSHA1": "8q9mc9QQLyEvZiIg+1JkTN4AHF0=",
-			"origin": "github.com/foursquare/c-snappy",
+			"checksumSHA1": "oOsXjUrrJWETLIMVp6fsyKzFvXE=",
 			"path": "github.com/cockroachdb/c-snappy",
-			"revision": "06f3a271875696bf6a20ecd60b3d96c0d1fdc6b8",
-			"revisionTime": "2016-06-07T19:43:12Z",
-			"tree": true
+			"revision": "c0cd3c9ce92f195001595e1fbbe66f045daad34f",
+			"revisionTime": "2016-11-24T05:17:49Z"
 		},
 		{
 			"checksumSHA1": "VhnlgU/Rwo7Q5VVDg9ZHfqQ6xMk=",
